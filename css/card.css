@@ -1,0 +1,22 @@
+.cards{
+    width:12%;
+    margin:15px;
+}
+
+#card-container{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.cardContainer{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.cardLink{
+    display:inline;
+}
