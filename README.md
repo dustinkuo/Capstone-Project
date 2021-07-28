@@ -22,7 +22,7 @@ Feature(s):
 Technologies used:
 -WAMP Server
 -Illustrator (logo and favicon)
--phpMyAdmin
+-phpMyAdmin (backend)
 
 Language(s) used:
 -HTML
